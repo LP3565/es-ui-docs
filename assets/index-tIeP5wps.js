@@ -1,0 +1,1 @@
+import{T as o}from"./Table-sSU_6Njv.js";import{d as t,k as e,o as l,v as m}from"./index-E4aI3LCl.js";const _=t({name:"InputPage",__name:"index",setup(s){const a=e([{label:"Name",key:"name"},{label:"Age",key:"age"}]),n=e([{name:"Alice",age:25},{name:"Bob",age:30}]);return(c,r)=>(l(),m(o,{columns:a.value,data:n.value},null,8,["columns","data"]))}});export{_ as default};
