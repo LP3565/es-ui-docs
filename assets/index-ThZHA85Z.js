@@ -1,4 +1,4 @@
-import{d as V,l as i,o as _,v as C,w as k,h as u,a as t,n as a,b as e,e as d,f as l,g as A}from"./index-jt5A6YvX.js";import{F as B,E as j}from"./Footer-pA9vZmAn.js";import{T as v}from"./Table--ZUwi-5c.js";import{p as b}from"./EsMenu-DaP7wCVq.js";const D=t("span",null,"  ",-1),N=`<template>
+import{d as V,l as i,o as _,v as C,w as k,h as u,a as t,n as a,b as e,e as d,f as l,g as A}from"./index--9Hnqm5g.js";import{F as B,E as j}from"./Footer-845KTPyZ.js";import{T as v}from"./Table-44CwVaMs.js";import{p as b}from"./EsMenu-DaP7wCVq.js";const D=t("span",null,"  ",-1),N=`<template>
   <EsSwitch v-model="isSwitch" id="test1" />
   <EsSwitch v-model="isSwitch2" id="test2" />
 </template>

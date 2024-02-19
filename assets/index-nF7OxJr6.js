@@ -1,4 +1,4 @@
-import{d as r,l as d,o as m,v as u,w as v,h as i,a,n as t,b as s,f as l,g as h}from"./index-jt5A6YvX.js";import{F as g,E as f}from"./Footer-pA9vZmAn.js";import{p as b}from"./EsMenu-DaP7wCVq.js";const _=`# npm
+import{d as r,l as d,o as m,v as u,w as v,h as i,a,n as t,b as s,f as l,g as h}from"./index--9Hnqm5g.js";import{F as g,E as f}from"./Footer-845KTPyZ.js";import{p as b}from"./EsMenu-DaP7wCVq.js";const _=`# npm
 $ npm install esui-v
 
 # pnpm
